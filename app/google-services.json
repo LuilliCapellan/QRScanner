@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997862313027",
+    "firebase_url": "https://qrscannerpucmm.firebaseio.com",
+    "project_id": "qrscannerpucmm",
+    "storage_bucket": "qrscannerpucmm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997862313027:android:31908e2626fa2a1a63d8f6",
+        "android_client_info": {
+          "package_name": "cisc.barcamp.passscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997862313027-07rirp5kfcaqviepmuqljh630pmog765.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cisc.barcamp.passscanner",
+            "certificate_hash": "4525520a8dad33368575bd96066c9fa6fb6b21f2"
+          }
+        },
+        {
+          "client_id": "997862313027-v9sfqptfib15kj78obog3oiu5072t11m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh61xg6nmAFH7g4HFcgMTcx21SRn_16Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997862313027-v9sfqptfib15kj78obog3oiu5072t11m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

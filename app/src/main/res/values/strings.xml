@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="scan_text">Escanee el codigo QR al mostrarlo completo en la pantalla</string>
+    <string name="qrScan">Escanear QR</string>
+</resources>
